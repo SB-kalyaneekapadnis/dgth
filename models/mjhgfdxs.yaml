@@ -13,13 +13,41 @@ properties:
     x-stoplight:
       id: r78sdf9ap5r5p
   nvnhvhn:
-    type: string
     x-stoplight:
       id: aplh2a05q612x
+    oneOf: []
   jghjgj:
-    type: string
     x-stoplight:
       id: 5s0zx0v1vprem
+    allOf:
+      - x-stoplight:
+          id: q7hgjo1yf156g
+        properties:
+          kihuih:
+            $ref: 'https://on-prem-stable-online.stoplight-dev.com/api/v1/projects/root/1062/nodes/reference/test_1062.json/components/schemas/User?mid=7'
+            x-stoplight:
+              id: dy86njvzt8m3m
+          jkgfhfh:
+            type: integer
+            x-stoplight:
+              id: i1snedq9i0rfk
+      - x-stoplight:
+          id: 99kzvsyk0qp9v
+        anyOf:
+          - properties:
+              .ljkkhkjnkl:
+                type: string
+                x-stoplight:
+                  id: up8kzho7890tv
+              ',kkljjkjkl':
+                type: string
+                x-stoplight:
+                  id: l1xruwtvsry7j
+              lkjkh:
+                type: string
+                x-stoplight:
+                  id: mnnc03988wfq7
+    type: object
   jhhjj:
     type: string
     x-stoplight:
